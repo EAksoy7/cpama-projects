@@ -1,0 +1,21 @@
+2.5
+a. 100_bottles INVALID
+b. _100_bottles VALID
+c. one__hundred__bottles VALID
+d. bottles_by_the_hundred VALID
+
+2.6
+Because someone reading the name could misinterpret it as being a single underscore and therefore incorrectly reference or call it later on in the program.
+
+2.7
+a and e are keywords.
+
+2.8
+answer=(3*q-p*p)/3;
+Ahh idk mate a good few I'd say
+
+2.9
+answer = (3 * q - p * p) / 3;
+
+2.10
+I'm not going through a program to tell you which spaces are essential.
