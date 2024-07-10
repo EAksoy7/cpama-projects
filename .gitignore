@@ -1,3 +1,5 @@
 # The output folder is a folder on my local machine used for storing the compiled files
+# build is another folder used on a different machine for compiled executables
 
 **/output
+**/build
